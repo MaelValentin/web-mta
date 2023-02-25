@@ -1,0 +1,1 @@
+"use strict";ScrollReveal().reveal(".scrollanim",{reset:!0,origin:"bottom",distance:"300px",easing:"ease-in-out",duration:1e3}),ScrollReveal().reveal(".render-right",{reset:!0,origin:"right",distance:"300px",easing:"ease-in-out",duration:3e3}),ScrollReveal().reveal(".render-left",{reset:!0,origin:"left",distance:"300px",easing:"ease-in-out",duration:3e3});
